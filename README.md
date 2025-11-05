@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Miroslav Dzunic
 - 👀 I’m interested in technology, science and programming.
-- 🌱 I’m currently learning Java 17
 - 💞️ I’m looking to collaborate on open-source TypeScript projects.
 - 📫 LinkedIn: www.linkedin.com/in/miroslav-dzunic
 
